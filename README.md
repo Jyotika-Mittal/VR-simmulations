@@ -22,7 +22,7 @@ Students can register/login, chat with a medical AI assistant, track performance
 
 ✨ Features
 
-🔐 Secure Login & Signup — Personalized dashboard per student
+🔐 Secure Login & Signup — Personalized dashboard as per student
 
 🤖 AI Surgical Chatbot — Context-aware answers to surgical & medical queries
 
